@@ -20,9 +20,44 @@ This is a phrase I've heard more in recent years as I speak to more experienced 
 
 If you already know what good looks like, or you want to, and you need help with your team/project asap then let's book a time to chat right fucken now! [DM me on twitter](https://twitter.com/mattkocaj)
 
-## todo: Steps
+## Steps
 
-Stand by while I [copy these steps from Justin Welsh](https://www.linkedin.com/posts/justinwelsh_how-to-build-a-1300month-side-business-activity-7037047400045117440-J_W-/) into this repo and come along for the ride as I smash all sorts of shit I've never done before. 💪
+These are just copy/paste [from Justin's post](https://www.linkedin.com/posts/justinwelsh_how-to-build-a-1300month-side-business-activity-7037047400045117440-J_W-/). 
+
+1. Clean up your LinkedIn profile to reflect what you do for people.
+
+2. Create daily content that talks about one specific challenge you solve.
+
+3. When people ask questions about your content, send them a DM.
+
+4. Ask them if they'd like to talk for free, to see if you can help.
+
+5. Do 15-20 calls to better understand how to solve their problem.
+
+6. Create a process you can walk people through in 60 minutes.
+
+7. Then go to Carrd and build a simple personal website for $19.
+
+8. Open up a free Stripe account and create a paid service
+
+9. Title the service "From X to Y in 60 minutes"
+Example: "From clueless to writing your first line of code in 60 min."
+
+10. Open up a free Calendly and create the same exact event.
+
+11. Open up a few slots outside of your 9 to 5.
+
+12. Add a "Buy" button to your Carrd page.
+
+13. Redirect it to Stripe checkout.
+
+14. After payment, redirect checkout to the Calendly account.
+
+15. Then, add your website to your LinkedIn profile URL and Featured section.
+
+16. Continue creating great content each day.
+
+17. When people ask questions, direct them to the link to pay.
 
 <!-- https://www.linkedin.com/in/cottsak/opportunities/services/onboarding/ -->
 
