@@ -24,7 +24,7 @@ If you already know what good looks like, or you want to, and you need help with
 
 These are just copy/paste [from Justin's post](https://www.linkedin.com/posts/justinwelsh_how-to-build-a-1300month-side-business-activity-7037047400045117440-J_W-/). 
 
-1. Clean up your LinkedIn profile to reflect what you do for people.
+1. ✅ ~~Clean up your [LinkedIn profile](https://www.linkedin.com/in/cottsak/) to reflect what you do for people.~~
 
 2. Create daily content that talks about one specific challenge you solve.
 
