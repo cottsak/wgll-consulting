@@ -26,7 +26,7 @@ These are just copy/paste [from Justin's post](https://www.linkedin.com/posts/ju
 
 1. ✅ ~~Clean up your [LinkedIn profile](https://www.linkedin.com/in/cottsak/) to reflect what you do for people.~~
 
-2. Create daily content that talks about one specific challenge you solve.
+2. ✅ Create daily content that talks about one specific challenge you solve.
 
 3. When people ask questions about your content, send them a DM.
 
@@ -58,6 +58,10 @@ Example: "From clueless to writing your first line of code in 60 min."
 16. Continue creating great content each day.
 
 17. When people ask questions, direct them to the link to pay.
+
+## Notes
+
+* WRG #2, the specific problem is to solve is "knowing what good looks like". Many know they want "good" but simply don't know what it looks like. My attempt at a solution for this is education. 
 
 <!-- https://www.linkedin.com/in/cottsak/opportunities/services/onboarding/ -->
 
