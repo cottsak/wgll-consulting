@@ -34,6 +34,8 @@ These are just copy/paste [from Justin's post](https://www.linkedin.com/posts/ju
 
 5. Do 15-20 calls to better understand how to solve their problem.
 
+<!-- the ebook may or may not be a solution here. i need to validate whether it is. so I'm not taking action on it yet -->
+
 6. Create a process you can walk people through in 60 minutes.
 
 7. Then go to Carrd and build a simple personal website for $19.
