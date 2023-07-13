@@ -54,6 +54,7 @@ Example: "From clueless to writing your first line of code in 60 min."
 14. After payment, redirect checkout to the Calendly account.
 
 15. Then, add your website to your LinkedIn profile URL and Featured section.
+<!-- https://www.linkedin.com/in/cottsak/opportunities/services/onboarding/ -->
 
 16. Continue creating great content each day.
 
@@ -62,10 +63,6 @@ Example: "From clueless to writing your first line of code in 60 min."
 ## Notes
 
 * WRG #2, the specific problem is to solve is "knowing what good looks like". Many know they want "good" but simply don't know what it looks like. My attempt at a solution for this is education. 
-
-<!-- https://www.linkedin.com/in/cottsak/opportunities/services/onboarding/ -->
-
-
 
 ---
 -//- Made with ❤️ and a butt-tonne of trepidation by Matt -//-
